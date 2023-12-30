@@ -1,1 +1,2 @@
 # Manaita-Plus
+Minecraft Mod
